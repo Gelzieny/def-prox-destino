@@ -17,6 +17,6 @@ O layout da aplicação está disponível no ["Figma"](https://www.figma.com/des
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 
-  <img alt="Tela home da aplicação" title="#TelaHome" src="https://github.com/Gelzieny/formacao-explorer/blob/main/html_introduction/desafio-02/img/image.png?raw=true" >
+  <img alt="Tela home da aplicação" title="#TelaHome" src="https://github.com/Gelzieny/def-prox-destino/blob/main/img/image.png?raw=true" >
 
 </p>
